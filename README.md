@@ -7,6 +7,21 @@ Link para o curso [Python Pro] https://www.python.pro.br/
 
 Suportada a versão 3 do Python.
 
+Para instalar:
+
+'''console
+python3 -m venv .venv
+source .venv/bin/activate
+pin install -r requirementis-dev.txt
+'''
+
+Para conferir qualidade no código:
+
+'''console
+flake8
+'''
+
+
 Tópicos a serem abordados:
 1. Git
 2. Virtualenv
