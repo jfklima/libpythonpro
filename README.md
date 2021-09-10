@@ -8,7 +8,7 @@ Link para o curso [Python Pro](https://www.python.pro.br/)
 [![Build Status](https://app.travis-ci.com/jfklima/libpythonpro.svg?branch=main)](https://app.travis-ci.com/jfklima/libpythonpro)
 [![Updates](https://pyup.io/repos/github/jfklima/libpythonpro/shield.svg)](https://pyup.io/repos/github/jfklima/libpythonpro/)
 [![Python 3](https://pyup.io/repos/github/jfklima/libpythonpro/python-3-shield.svg)](https://pyup.io/repos/github/jfklima/libpythonpro/)
-
+[![codecov](https://codecov.io/gh/jfklima/libpythonpro/branch/main/graph/badge.svg?token=QQX7KJYKEY)](https://codecov.io/gh/jfklima/libpythonpro)
 
 Suportada a versão 3 do Python.
 
